@@ -1,6 +1,8 @@
 ### session11-exercise6
+## Look in main.py for the code to try!
 ## Exercise #6 from 20/06/2022
-#We were given the following exercise:
+
+We were given the following exercise:
 EXERCISE 6
 
 1.Write a program to demonstrate to get index and value of the element from the list .
