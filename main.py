@@ -50,5 +50,7 @@ for i in b:
 length = len(b)
 print(sum / length)
 print("Question 4")
-no_duplicates = list(dict.fromkeys(b))
-print(no_duplicates)
+# no_duplicates = list(dict.fromkeys(b))
+# print(no_duplicates)
+a = set(b)  #changes data b from list to a set and assigns it to a. Sets have no duplicates.
+print(a)
